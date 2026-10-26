@@ -71,4 +71,4 @@ Provide the generated stego image and the required output filename according to 
 
 ## Author
 
-Electronics and Communication Engineering Graduate
+Mallisetty Navigna
